@@ -13,3 +13,4 @@ Water is essential for human life.  We want to use AI to securing water quality 
 # Azure platform
 We used Azure platform for deploying this.
 ![Deploy](deploy.png)
+https://drive.google.com/file/d/1Xvt8mBl9qGltFsNou44VVpbtm_FLznVG/view?usp=drivesdk
