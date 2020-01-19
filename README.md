@@ -1,8 +1,3 @@
-![Logo](Logo_Large.png)
-
-# Step by Step guide
-A step by step guide is published on https://www.hackster.io/clean-water-ai/clean-water-ai-e40806
-
 # Clean-Water-AI
 
 According to World Health Organization, over 2.1 billion people in the world lack safe drinking water at home, more than twice as many lack safe sanitation.  And even in first world countries like Untied States, they still have water contamination problems such as Flint, Michigan.
